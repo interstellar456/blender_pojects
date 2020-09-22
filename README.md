@@ -1,1 +1,1 @@
-# blender_pojects
+# blender_projects
